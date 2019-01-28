@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMatch", "StringMatch\StringMatch.csproj", "{BF6FD90E-7C5B-4C63-B925-CED889899E6A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMatchTest", "StringMatchTest\StringMatchTest.csproj", "{AF8316A8-ECDC-4735-8DC4-5528D0E42FFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BF6FD90E-7C5B-4C63-B925-CED889899E6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF6FD90E-7C5B-4C63-B925-CED889899E6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF6FD90E-7C5B-4C63-B925-CED889899E6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF8316A8-ECDC-4735-8DC4-5528D0E42FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF8316A8-ECDC-4735-8DC4-5528D0E42FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF8316A8-ECDC-4735-8DC4-5528D0E42FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF8316A8-ECDC-4735-8DC4-5528D0E42FFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
