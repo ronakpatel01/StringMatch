@@ -15,7 +15,7 @@ namespace StringMatchTest
 
             Assert.AreEqual("1, 26, 51", compares.FindMatches("Polly"));
         }
-
+        
         [TestMethod]
         public void TestMethod2()
         {
